@@ -3,7 +3,7 @@
     <data noupdate="1">
         <record id="config_webhook_url" model="ir.config_parameter">
             <field name="key">webscraping_v1.webhook_url</field>
-            <field name="value">https://brain.nandus.com.br/webhook-test/verifica-html</field>
+            <field name="value">https://brain.nandus.com.br/webhook/module-odoo-wcs</field>
         </record>
     </data>
 </odoo>
